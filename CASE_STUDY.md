@@ -1,29 +1,41 @@
 # Khmer Cash Flow: a bilingual Cambodian business app
 
-**This case study describes the larger original shared product. Fictional Ledger is only a small, disconnected public showcase of selected workflows—not the actual operational app or its full feature set.**
+**Cameron Boyle · AI-assisted development, field feedback and user training**
 
-## Problem and intended users
+I helped develop and improve a shared English/Khmer app that lets Cambodian small-business owners record income and expenses and understand their profit. I did most of the AI-assisted development on the shared Lovable application and helped train about 200 business owners to use it.
 
-Small-business owners need a short daily workflow for recording sales/costs and understanding profit. The original shared application targets Cambodian microbusiness use. Khmer/English navigation, prominent transaction actions, daily summaries and KHR/USD display support a short routine-entry workflow.
+[Explore the public demo](https://cameronjohnboyle2-hub.github.io/fictional-ledger-showcase/)
 
-## Contribution and tools
+The public demo, Fictional Ledger, is an offline extract with invented transactions. The original shared app also includes account handling, cloud synchronization and operational integrations.
 
-Cameron reports doing most of the development on the shared Lovable application. Ben owns the workspace. Retained source shows ledger reporting, native-currency preservation, queued cloud writes and account-switch safeguards. These are source observations, not independently verified attribution for every change or proof of field performance. Development used AI-assisted tooling, including Lovable; Codex prepared this separate fictional extract and its checks. Cameron approved publishing this fictional showcase; shared-development credits and third-party notices remain visible. This is not a claim of sole ownership.
+## The user problem
 
-## Demonstrated decisions
+Daily bookkeeping needed to be a short, understandable routine. Owners needed prominent transaction actions, clear income/expense totals and profit summaries in a language and currency they understood.
 
-- Keep routine entry prominent, with transaction-level editing and daily profit summaries.
-- Bundle English and Khmer interface strings and preserve original transaction currency while converting the displayed total.
-- Use reports and habit feedback to support repeat usage, without presenting demo streaks as actual user outcomes.
-- Remove accounts, backend access and research integration from the public candidate, and make reset behavior visible.
-- Replace legacy spreadsheet code with a smaller CSV-only export whose limits are explicit.
+## My contribution
 
-## Results and evidence needed
+I used AI-assisted development and field feedback to improve the shared application and support users. Ben owns the Lovable workspace; this is shared work, not sole original authorship.
 
-The fictional copy demonstrates the retained workflows and passes bounded local tests/browser checks. It proves neither adoption nor production security. Prior project notes report roughly 200 businesses trained/accounts created and roughly 50 regular users; neither figure is audited here, and neither should be presented as 200 active users. Cameron's latest statement identifies substantial development work. Exact training/active-user definitions, date ranges, source of counts, feedback examples and attribution for specific improvements remain to be confirmed before an employer-facing impact claim.
+The retained original source includes reporting, preservation of native transaction currency, queued cloud writes and account-switch safeguards. Lovable supported development; Codex prepared the separate fictional extract and its checks. Shared-development credits and third-party notices remain visible.
 
-Useful future evidence is an anonymized, rights-cleared account of an actual usability/reliability issue, the resulting product change, and a measured outcome. Proposed metrics include entry completion, repeat entry across weeks, successful recovery of queued writes, and task completion in both languages. These are proposed measurements, not reported results.
+## Product decisions
 
-## Lessons and next steps
+- Put routine income and expense entry first, with editing and daily profit summaries.
+- Support English and Khmer, preserving original transaction currency while converting displayed totals.
+- Use reports and habit feedback to encourage repeat entry.
+- Keep the public demo disconnected from accounts, backend access and research integrations, with visible reset behavior.
+- Use a smaller CSV-only export in the public extract with explicit limits.
 
-A trainer preview is not sufficient isolation when shared imports can initialize a production session. Establish the boundary before modules load, remove network capability, and test real mutations alongside privacy guards. Resolve the original authentication/recovery/export findings separately with its operators. Keep the original operational system separate. Publish only the reviewed fictional extract with fresh history and verify the hosted artifact without account access. Preserve evidence boundaries when describing adoption and field outcomes.
+## Outcome and measurement limits
+
+We trained about 200 business owners; my project account estimates approximately 50 regular users. These are approximate counts, with no formal date window or daily-active definition established here. Training and account creation are different from active usage.
+
+The original work connected software development with teaching and adoption. The public extract demonstrates selected workflows and has documented bounded tests and browser checks; it does not establish original field performance, production security or research outcomes.
+
+## What I learned
+
+A useful bookkeeping app has to fit how people actually enter and interpret information. Language, currency, short entry flows and support matter alongside implementation.
+
+For the public showcase, isolation had to happen before shared imports could initialize a production session. Accounts and network capability were removed, and mutation/privacy checks were documented. Original authentication, recovery and export issues remain separate operator work.
+
+The next useful evidence would be a rights-cleared example of a real user issue, the change we made and its outcome. Entry completion, repeat use, queued-write recovery and task completion in both languages are possible future measurements—not results claimed here.
