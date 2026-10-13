@@ -2,11 +2,11 @@
 
 **Mini showcase — NOT the actual Khmer Cash Flow app.** Fictional Ledger is a small, disconnected extract of selected workflows from the larger shared Cambodian business product (called Khmer Coin Keeper in its source). The public demo is not the full original application.
 
-Cameron reports doing most of the original app’s AI-assisted development. The original includes account handling, queued cloud writes, account-switch safeguards and operational integrations; those are excluded from this mini showcase. Here, visitors can try only fictional ledger entry, reports, currency display and habit feedback in English or Khmer. [Explore the original product and Cameron’s role](CASE_STUDY.md).
+I did most of the original app’s AI-assisted development. The original includes account handling, queued cloud writes, account-switch safeguards and operational integrations; those are excluded from this mini showcase. Here, visitors can try only fictional ledger entry, reports, currency display and habit feedback in English or Khmer. [Explore the original product and my role](CASE_STUDY.md).
 
 [Try the fictional demo](https://cameronjohnboyle2-hub.github.io/fictional-ledger-showcase/) · [Product case study](CASE_STUDY.md)
 
-This public showcase adapts selected UI and ledger source from the shared Khmer Coin Keeper project. Cameron reports doing most of the development; Ben owns the Lovable workspace. It is AI-assisted development on a shared application, not a claim of sole authorship or conventional hand coding. See [credits and rights](CREDITS_AND_RIGHTS.md).
+This public showcase adapts selected UI and ledger source from the shared Khmer Coin Keeper project. I contributed most of the AI-assisted development; Ben owns the Lovable workspace. It is AI-assisted development on a shared application, not a claim of sole authorship or conventional hand coding. See [credits and rights](CREDITS_AND_RIGHTS.md).
 
 ## Two-minute walkthrough
 
@@ -40,7 +40,7 @@ React 18, TypeScript, Vite 8, Tailwind 4, React Router 7, i18next, Radix UI and 
 
 A fresh copy passes installation from the lockfile, ten behavior/isolation tests, TypeScript and production build. Refreshed installation reports zero audit findings at the review point, not a permanent security guarantee. Browser checks cover English/Khmer ledger navigation, mutations/totals, display conversion, charts/grouping, reset and a real fictional CSV file. The 390-by-844 ledger view has no page horizontal overflow. This is not a test of the original live app, native devices, cloud synchronization or production security. Dates can follow browser locale availability; some new showcase-specific text remains English. The build reports a large application chunk; no load-time claim is made.
 
-Cameron approved publication of this fictional copy. The original source and production app remain unchanged. This release preserves shared-development credits and third-party notices; it grants no general reuse license to the shared application source. Historical adoption figures remain reported estimates, with definitions and dates still to confirm.
+I approved publication of this fictional copy. The original source and production app remain unchanged. This release preserves shared-development credits and third-party notices; it grants no general reuse license to the shared application source. Historical adoption figures remain reported estimates, with definitions and dates still to confirm.
 
 ## Screenshots from the fictional copy
 
