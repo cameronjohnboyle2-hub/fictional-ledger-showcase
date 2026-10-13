@@ -1,4 +1,6 @@
-# Product case study: a bilingual business ledger
+# Khmer Cash Flow: a bilingual Cambodian business app
+
+**This case study describes the larger original shared product. Fictional Ledger is only a small, disconnected public showcase of selected workflows—not the actual operational app or its full feature set.**
 
 ## Problem and intended users
 

@@ -1,6 +1,8 @@
 # Fictional Ledger
 
-A disconnected product showcase of a bilingual small-business ledger: record income and expenses, understand profit, review reports, and explore habit feedback in English or Khmer.
+**Mini showcase — NOT the actual Khmer Cash Flow app.** Fictional Ledger is a small, disconnected extract of selected workflows from the larger shared Cambodian business product (called Khmer Coin Keeper in its source). The public demo is not the full original application.
+
+Cameron reports doing most of the original app’s AI-assisted development. The original includes account handling, queued cloud writes, account-switch safeguards and operational integrations; those are excluded from this mini showcase. Here, visitors can try only fictional ledger entry, reports, currency display and habit feedback in English or Khmer. [Explore the original product and Cameron’s role](CASE_STUDY.md).
 
 [Try the fictional demo](https://cameronjohnboyle2-hub.github.io/fictional-ledger-showcase/) · [Product case study](CASE_STUDY.md)
 
