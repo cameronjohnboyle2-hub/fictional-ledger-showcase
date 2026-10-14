@@ -1,9 +1,9 @@
 const en = {
   showcase: {
     title: "Mini showcase — NOT the actual Khmer Cash Flow app",
-    scope: "Fictional Ledger shows only selected workflows from the larger shared Cambodian business app Cameron developed. The original also includes account handling, cloud synchronization and operational integrations omitted here.",
+    scope: "Fictional Ledger shows only selected workflows from the larger shared Cambodian business app I helped develop. The original also includes account handling, cloud synchronization and operational integrations omitted here.",
     privacy: "Invented transactions only · No accounts or cloud connection · Reload resets",
-    link: "Explore the full original project and Cameron’s role",
+    link: "Explore the original project and my role",
   },
   common: {
     continue: "Continue",
